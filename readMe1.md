@@ -20,10 +20,8 @@
   ### Required Dependencies
   npm i
 
-  ## Usage
   
 
-  ## Contributions
   
 
   ## License
@@ -34,4 +32,3 @@
   ## Questions
   ### Please contact me at the email below for any further questions
   Rickythakar@gmail.com
-
